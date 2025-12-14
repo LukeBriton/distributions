@@ -1,0 +1,759 @@
+E:\distributions\PostScript-pkfix-corrected>ps-to-pdf.cmd
+
+E:\distributions\PostScript-pkfix-corrected>pkfix-helper distributions.ps distributions_helped.ps   --force="Fa=cmss9 @ *"   --force="Fb=cmmib9 @ *"   --force="Fg=eufm5 @ *"   --force="Fh=cmss8 @ *"   --force="Fi=cmssbx10 @ *"   --force="Fj=cmmib7 @ *"   --force="Fk=cmmib10 @ *"   --force="Fl=cmsy8 @ *"   --force="Fm=cmsy10 @ *"   --force="Fn=cmr8 @ *"   --force="Fo=cmex7 @ *"   --force="Fp=cmsy6 @ *"   --force="Fr=cmr6 @ *"   --force="Fs=msam10 @ *"   --force="Ft=cmr9 @ *"   --force="Fu=cmex9 @ *"   --force="Fv=cmmi6 @ *"   --force="Fw=line10 @ *"   --force="Fx=cmsy9 @ *"   --force="Fy=cmmi9 @ *"   --force="Fz=eufm7 @ *"   --force="FA=cmbx10 @ *"   --force="FB=msbm7 @ *"   --force="FC=cmr5 @ *"   --force="FD=eufm10 @ *"   --force="FH=msbm5 @ *"   --force="FJ=msbm10 @ *"   --force="FK=cmmi5 @ *"   --force="FL=cmsy5 @ *"   --force="FM=cmss10 @ *"   --force="FN=msam6 @ *"   --force="FO=cmex10 @ *"   --force="FS=cmr10 @ *"   --force="FT=cmr7 @ *"   --force="FU=cmmi10 @ *"   --force="FV=cmmi7 @ *"   --force="FX=cmsy7 @ *"
+Reading distributions.ps ... done.
+Bitmapped fonts are typeset at 600 DPI.
+Determined the page size to be 598.235pt by 845.157pt (A4).
+Total number of Type 3 fonts encountered: 55
+Finding character widths ... done.
+Reading TFM files ... tftopl.exe: fatal: tfm file `cmb12' not found.
+tftopl.exe: fatal: tfm file `cmb17' not found.
+tftopl.exe: fatal: tfm file `cmb5' not found.
+tftopl.exe: fatal: tfm file `cmb6' not found.
+tftopl.exe: fatal: tfm file `cmb7' not found.
+tftopl.exe: fatal: tfm file `cmb8' not found.
+tftopl.exe: fatal: tfm file `cmb9' not found.
+tftopl.exe: fatal: tfm file `cmbsy12' not found.
+tftopl.exe: fatal: tfm file `cmbsy17' not found.
+tftopl.exe: fatal: tfm file `cmbx17' not found.
+tftopl.exe: fatal: tfm file `cmbxsl12' not found.
+tftopl.exe: fatal: tfm file `cmbxsl17' not found.
+tftopl.exe: fatal: tfm file `cmbxsl5' not found.
+tftopl.exe: fatal: tfm file `cmbxsl6' not found.
+tftopl.exe: fatal: tfm file `cmbxsl7' not found.
+tftopl.exe: fatal: tfm file `cmbxsl8' not found.
+tftopl.exe: fatal: tfm file `cmbxsl9' not found.
+tftopl.exe: fatal: tfm file `cmbxti17' not found.
+tftopl.exe: fatal: tfm file `cmbxti5' not found.
+tftopl.exe: fatal: tfm file `cmbxti6' not found.
+tftopl.exe: fatal: tfm file `cmbxti8' not found.
+tftopl.exe: fatal: tfm file `cmbxti9' not found.
+tftopl.exe: fatal: tfm file `cmcsc12' not found.
+tftopl.exe: fatal: tfm file `cmcsc17' not found.
+tftopl.exe: fatal: tfm file `cmcsc5' not found.
+tftopl.exe: fatal: tfm file `cmcsc6' not found.
+tftopl.exe: fatal: tfm file `cmcsc7' not found.
+tftopl.exe: fatal: tfm file `cmex12' not found.
+tftopl.exe: fatal: tfm file `cmex17' not found.
+tftopl.exe: fatal: tfm file `cmex5' not found.
+tftopl.exe: fatal: tfm file `cmex6' not found.
+tftopl.exe: fatal: tfm file `cmitt17' not found.
+tftopl.exe: fatal: tfm file `cmitt5' not found.
+tftopl.exe: fatal: tfm file `cmitt6' not found.
+tftopl.exe: fatal: tfm file `cmitt7' not found.
+tftopl.exe: fatal: tfm file `cmitt8' not found.
+tftopl.exe: fatal: tfm file `cmmi17' not found.
+tftopl.exe: fatal: tfm file `cmmib12' not found.
+tftopl.exe: fatal: tfm file `cmmib17' not found.
+tftopl.exe: fatal: tfm file `cmsl17' not found.
+tftopl.exe: fatal: tfm file `cmsl5' not found.
+tftopl.exe: fatal: tfm file `cmsl7' not found.
+tftopl.exe: fatal: tfm file `cmsltt12' not found.
+tftopl.exe: fatal: tfm file `cmsltt17' not found.
+tftopl.exe: fatal: tfm file `cmsltt5' not found.
+tftopl.exe: fatal: tfm file `cmsltt6' not found.
+tftopl.exe: fatal: tfm file `cmsltt7' not found.
+tftopl.exe: fatal: tfm file `cmsltt8' not found.
+tftopl.exe: fatal: tfm file `cmss5' not found.
+tftopl.exe: fatal: tfm file `cmss6' not found.
+tftopl.exe: fatal: tfm file `cmss7' not found.
+tftopl.exe: fatal: tfm file `cmssbx12' not found.
+tftopl.exe: fatal: tfm file `cmssbx17' not found.
+tftopl.exe: fatal: tfm file `cmssbx5' not found.
+tftopl.exe: fatal: tfm file `cmssbx6' not found.
+tftopl.exe: fatal: tfm file `cmssbx7' not found.
+tftopl.exe: fatal: tfm file `cmssbx8' not found.
+tftopl.exe: fatal: tfm file `cmssbx9' not found.
+tftopl.exe: fatal: tfm file `cmssdc12' not found.
+tftopl.exe: fatal: tfm file `cmssdc17' not found.
+tftopl.exe: fatal: tfm file `cmssdc5' not found.
+tftopl.exe: fatal: tfm file `cmssdc6' not found.
+tftopl.exe: fatal: tfm file `cmssdc7' not found.
+tftopl.exe: fatal: tfm file `cmssdc8' not found.
+tftopl.exe: fatal: tfm file `cmssdc9' not found.
+tftopl.exe: fatal: tfm file `cmssi5' not found.
+tftopl.exe: fatal: tfm file `cmssi6' not found.
+tftopl.exe: fatal: tfm file `cmssi7' not found.
+tftopl.exe: fatal: tfm file `cmsy12' not found.
+tftopl.exe: fatal: tfm file `cmsy17' not found.
+tftopl.exe: fatal: tfm file `cmtcsc12' not found.
+tftopl.exe: fatal: tfm file `cmtcsc17' not found.
+tftopl.exe: fatal: tfm file `cmtcsc5' not found.
+tftopl.exe: fatal: tfm file `cmtcsc6' not found.
+tftopl.exe: fatal: tfm file `cmtcsc7' not found.
+tftopl.exe: fatal: tfm file `cmtcsc8' not found.
+tftopl.exe: fatal: tfm file `cmtcsc9' not found.
+tftopl.exe: fatal: tfm file `cmti17' not found.
+tftopl.exe: fatal: tfm file `cmti5' not found.
+tftopl.exe: fatal: tfm file `cmti6' not found.
+tftopl.exe: fatal: tfm file `cmtt17' not found.
+tftopl.exe: fatal: tfm file `cmtt5' not found.
+tftopl.exe: fatal: tfm file `cmtt6' not found.
+tftopl.exe: fatal: tfm file `cmtt7' not found.
+tftopl.exe: fatal: tfm file `lasy12' not found.
+tftopl.exe: fatal: tfm file `lasy17' not found.
+tftopl.exe: fatal: tfm file `lasyb12' not found.
+tftopl.exe: fatal: tfm file `lasyb17' not found.
+tftopl.exe: fatal: tfm file `lasyb5' not found.
+tftopl.exe: fatal: tfm file `lasyb6' not found.
+tftopl.exe: fatal: tfm file `lasyb7' not found.
+tftopl.exe: fatal: tfm file `lasyb8' not found.
+tftopl.exe: fatal: tfm file `lasyb9' not found.
+tftopl.exe: fatal: tfm file `msam12' not found.
+tftopl.exe: fatal: tfm file `msam17' not found.
+tftopl.exe: fatal: tfm file `msbm12' not found.
+tftopl.exe: fatal: tfm file `msbm17' not found.
+done (107 TFMs in 293 scaling variations).
+Matching fonts:
+    Processing F0 ... done (no match found).
+pkfix-helper: F0 uses characters that don't appear in any candidate font
+    Processing FW ... done (no match found).
+pkfix-helper: FW uses characters that don't appear in any candidate font
+    Processing FU ... done (cmmi10 @ 0.99987X with mismatch=0.09876, forced by user).
+    Processing FZ ... done (no match found).
+pkfix-helper: FZ uses characters that don't appear in any candidate font
+    Processing FV ... done (cmmi7 @ 0.99856X with mismatch=0.08591, forced by user).
+    Processing FY ... done (cmsy10 @ 1X with mismatch=0.08355).
+    Processing FP ... done (no match found).
+pkfix-helper: FP uses characters that don't appear in any candidate font
+    Processing FS ... done (cmr10 @ 1.0031X with mismatch=0.06310, forced by user).
+    Processing FR ... done (no match found).
+pkfix-helper: FR uses characters that don't appear in any candidate font
+    Processing Fe ... done (no match found).
+pkfix-helper: Fe uses characters that don't appear in any candidate font
+    Processing FO ... done (cmex10 @ 0.99902X with mismatch=0.04551, forced by user).
+    Processing FE ... done (cmr8 @ 1X with mismatch=0.28205, tied with cmsl8 @ 1X).
+    Processing F2 ... done (cmbx10 @ 1.2X with mismatch=0.06970, tied with cmbxsl10 @ 1.2X).
+    Processing Fy ... done (cmmi9 @ 0.99996X with mismatch=0.03655, forced by user).
+    Processing FT ... done (cmr7 @ 0.99994X with mismatch=0.02831, forced by user).
+    Processing FX ... done (cmsy7 @ 1.0019X with mismatch=0.01429, forced by user).
+    Processing FQ ... done (cmcsc10 @ 1X with mismatch=0.02585).
+    Processing Fv ... done (cmmi6 @ 0.99789X with mismatch=0.01826, forced by user).
+    Processing FK ... done (cmmi5 @ 0.99965X with mismatch=0.02813, forced by user).
+    Processing F1 ... done (cmbx12 @ 1.7283X with mismatch=2.42666).
+pkfix-helper: Best match for F1 is rather poor
+    Processing Fr ... done (cmr6 @ 0.99607X with mismatch=0.03035, forced by user).
+    Processing Fx ... done (cmsy9 @ 0.99973X with mismatch=0.02325, forced by user).
+    Processing Ff ... done (cmbx12 @ 1.2X with mismatch=0.05825).
+    Processing Fw ... done (line10 @ 0.99991X with mismatch=0.00629, forced by user).
+    Processing FL ... done (cmsy5 @ 1.0041X with mismatch=0.01091, forced by user).
+    Processing Ft ... done (cmr9 @ 0.99849X with mismatch=0.01475, forced by user).
+    Processing FC ... done (cmr5 @ 0.99615X with mismatch=0.01321, forced by user).
+    Processing Fd ... done (cmmib7 @ 1X with mismatch=0.00098).
+    Processing FJ ... done (msbm10 @ 0.93354X with mismatch=14.09413, forced by user).
+pkfix-helper: Best match for FJ is rather poor
+    Processing Fp ... done (cmsy6 @ 1.0064X with mismatch=0.01109, forced by user).
+    Processing FB ... done (msbm7 @ 1.0195X with mismatch=6.47153, forced by user).
+pkfix-helper: Best match for FB is rather poor
+    Processing FM ... done (cmss10 @ 0.99691X with mismatch=0.00299, forced by user).
+    Processing FF ... done (cmr6 @ 1X with mismatch=0.00923, tied with cmsl6 @ 1X).
+    Processing FG ... done (cmmib5 @ 1X with mismatch=0.00055).
+    Processing FH ... done (msbm5 @ 1.7142X with mismatch=6.06327, forced by user).
+pkfix-helper: Best match for FH is rather poor
+    Processing Fk ... done (cmmib10 @ 1.0005X with mismatch=0.00409, forced by user).
+    Processing Fj ... done (cmmib7 @ 0.99499X with mismatch=0.00262, forced by user).
+    Processing Fs ... done (msam10 @ 1.0062X with mismatch=0.00000, forced by user).
+    Processing Fu ... done (cmex9 @ 1.0007X with mismatch=0.00258, forced by user).
+    Processing FA ... done (cmbx10 @ 1.0051X with mismatch=0.00000, forced by user).
+    Processing FD ... done (eufm10 @ 1.0046X with mismatch=0.00000, forced by user).
+    Processing FI ... done (msbm5 @ 1X with mismatch=0.88254).
+    Processing FN ... done (msam6 @ 1.0003X with mismatch=0.00000, forced by user).
+    Processing Fa ... done (cmss9 @ 1.0071X with mismatch=0.00000, forced by user).
+    Processing Fb ... done (cmmib9 @ 0.99924X with mismatch=0.00000, forced by user).
+    Processing Fc ... done (cmbx5 @ 1X with mismatch=0.00010).
+    Processing Fg ... done (eufm5 @ 0.98812X with mismatch=0.00000, forced by user).
+    Processing Fh ... done (cmss8 @ 0.88284X with mismatch=0.00000, forced by user).
+    Processing Fi ... done (cmssbx10 @ 1.0004X with mismatch=0.00000, forced by user).
+    Processing Fl ... done (cmsy8 @ 1.0017X with mismatch=0.00000, forced by user).
+    Processing Fm ... done (cmsy10 @ 1.1922X with mismatch=0.00000, forced by user).
+    Processing Fn ... done (cmr8 @ 1.0002X with mismatch=0.00000, forced by user).
+    Processing Fo ... done (cmex7 @ 1.0106X with mismatch=0.00000, forced by user).
+    Processing Fq ... done (cmbxti7 @ 1X with mismatch=0.00000).
+    Processing Fz ... done (eufm7 @ 1.0044X with mismatch=0.00000, forced by user).
+
+E:\distributions\PostScript-pkfix-corrected>pkfix distributions_helped.ps distributions_fixed.ps
+PKFIX 1.7, 2012/04/18 - Copyright (c) 2001, 2005, 2007, 2009, 2011, 2012 by Heiko Oberdiek.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:47' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmss9
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb>[1]
+*** Font conversion: `cmss9' -> `CMSS9'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:47' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmmib9
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib9.pfb>
+[1]
+*** Font conversion: `cmmib9' -> `CMMIB9'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:48' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmbx5
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx5.pfb>[1]
+*** Font conversion: `cmbx5' -> `CMBX5'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:48' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmmib7
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb>
+[1]
+*** Font conversion: `cmmib7' -> `CMMIB7'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:48' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmr10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+Warning: module writet1 of dvips (file cmr10.pfb): character 233 is mapped to .notdef
+
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>[1]
+*** Font conversion: `cmr10' -> `CMR10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:49' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmbx12
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>[1]
+*** Font conversion: `cmbx12' -> `CMBX12'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:49' -> _pkfix_13384.ps
+dvips: Design size mismatch in font eufm5
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/euler/eufm5.pfb>[1]
+*** Font conversion: `eufm5' -> `EUFM5'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:50' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmss8
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>[1]
+*** Font conversion: `cmss8' -> `CMSS8'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:50' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmssbx10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>[1]
+*** Font conversion: `cmssbx10' -> `CMSSBX10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:51' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmmib7
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb>
+[1]
+*** Font conversion: `cmmib7' -> `CMMIB7'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:51' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmmib10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb>[1]
+*** Font conversion: `cmmib10' -> `CMMIB10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:52' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmsy8
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>[1]
+*** Font conversion: `cmsy8' -> `CMSY8'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:52' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmsy10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>[1]
+*** Font conversion: `cmsy10' -> `CMSY10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:52' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmr8
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>[1]
+*** Font conversion: `cmr8' -> `CMR8'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:53' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmex7
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb>[1]
+*** Font conversion: `cmex7' -> `CMEX7'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:53' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmsy6
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>[1]
+*** Font conversion: `cmsy6' -> `CMSY6'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:54' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmbxti7
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb>[1]
+*** Font conversion: `cmbxti7' -> `CMBXTI10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:54' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmr6
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb>[1]
+*** Font conversion: `cmr6' -> `CMR6'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:55' -> _pkfix_13384.ps
+dvips: Design size mismatch in font msam10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+[1]
+*** Font conversion: `msam10' -> `MSAM10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:55' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmr9
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>[1]
+*** Font conversion: `cmr9' -> `CMR9'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:56' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmex9
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb>[1]
+*** Font conversion: `cmex9' -> `CMEX9'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:56' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmmi6
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb>[1]
+*** Font conversion: `cmmi6' -> `CMMI6'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:57' -> _pkfix_13384.ps
+dvips: Design size mismatch in font line10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb>
+[1]
+*** Font conversion: `line10' -> `LINE10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:57' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmsy9
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>[1]
+*** Font conversion: `cmsy9' -> `CMSY9'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:58' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmmi9
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb>[1]
+*** Font conversion: `cmmi9' -> `CMMI9'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:58' -> _pkfix_13384.ps
+dvips: Design size mismatch in font eufm7
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb>[1]
+*** Font conversion: `eufm7' -> `EUFM7'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:58' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmbx10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>[1]
+*** Font conversion: `cmbx10' -> `CMBX10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:59' -> _pkfix_13384.ps
+dvips: Design size mismatch in font msbm7
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>[1]
+*** Font conversion: `msbm7' -> `MSBM7'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:32:59' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmr5
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb>[1]
+*** Font conversion: `cmr5' -> `CMR5'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:00' -> _pkfix_13384.ps
+dvips: Design size mismatch in font eufm10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb>[1]
+*** Font conversion: `eufm10' -> `EUFM10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:00' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmr8
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>[1]
+*** Font conversion: `cmr8' -> `CMR8'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:01' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmr6
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb>[1]
+*** Font conversion: `cmr6' -> `CMR6'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:01' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmmib5
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib5.pfb>
+[1]
+*** Font conversion: `cmmib5' -> `CMMIB5'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:02' -> _pkfix_13384.ps
+dvips: Design size mismatch in font msbm5
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm5.pfb>[1]
+*** Font conversion: `msbm5' -> `MSBM5'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:02' -> _pkfix_13384.ps
+dvips: Design size mismatch in font msbm5
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm5.pfb>[1]
+*** Font conversion: `msbm5' -> `MSBM5'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:02' -> _pkfix_13384.ps
+dvips: Design size mismatch in font msbm10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+[1]
+*** Font conversion: `msbm10' -> `MSBM10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:03' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmmi5
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb>[1]
+*** Font conversion: `cmmi5' -> `CMMI5'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:03' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmsy5
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb>[1]
+*** Font conversion: `cmsy5' -> `CMSY5'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:04' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmss10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb>[1]
+*** Font conversion: `cmss10' -> `CMSS10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:04' -> _pkfix_13384.ps
+dvips: Design size mismatch in font msam6
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msam6.pfb>[1]
+*** Font conversion: `msam6' -> `MSAM6'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:05' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmex10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>[1]
+*** Font conversion: `cmex10' -> `CMEX10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:05' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmr10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+Warning: module writet1 of dvips (file cmr10.pfb): character 255 is mapped to .notdef
+
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>[1]
+*** Font conversion: `cmr10' -> `CMR10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:06' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmcsc10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>[1]
+*** Font conversion: `cmcsc10' -> `CMCSC10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:06' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmr10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+Warning: module writet1 of dvips (file cmr10.pfb): character 255 is mapped to .notdef
+
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>[1]
+*** Font conversion: `cmr10' -> `CMR10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:06' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmr10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>[1]
+*** Font conversion: `cmr10' -> `CMR10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:07' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmr7
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>[1]
+*** Font conversion: `cmr7' -> `CMR7'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:07' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmmi10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>[1]
+*** Font conversion: `cmmi10' -> `CMMI10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:08' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmmi7
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb>[1]
+*** Font conversion: `cmmi7' -> `CMMI7'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:08' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmr10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+Warning: module writet1 of dvips (file cmr10.pfb): character 224 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 225 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 228 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 233 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 246 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 252 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 255 is mapped to .notdef
+
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>[1]
+*** Font conversion: `cmr10' -> `CMR10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:09' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmsy7
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>[1]
+*** Font conversion: `cmsy7' -> `CMSY7'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:09' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmsy10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>[1]
+*** Font conversion: `cmsy10' -> `CMSY10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:09' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmr10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+Warning: module writet1 of dvips (file cmr10.pfb): character 246 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 255 is mapped to .notdef
+
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>[1]
+*** Font conversion: `cmr10' -> `CMR10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:10' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmr10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+Warning: module writet1 of dvips (file cmr10.pfb): character 159 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 232 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 233 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 244 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 246 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 252 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 255 is mapped to .notdef
+
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>[1]
+*** Font conversion: `cmr10' -> `CMR10'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:10' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmbx12
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>[1]
+*** Font conversion: `cmbx12' -> `CMBX12'.
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:11' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmbx10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>[1]
+*** Font conversion: `cmbx10' -> `CMBX10'.
+*** Merging font `CMMIB7' (2).
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:11' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmmib7
+dvips: Design size mismatch in font cmmib7
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb>
+[1]
+*** Merging font `CMR10' (7).
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:12' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmr10
+dvips: Design size mismatch in font cmr10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+Warning: module writet1 of dvips (file cmr10.pfb): character 159 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 224 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 225 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 228 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 232 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 233 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 244 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 246 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 252 is mapped to .notdef
+
+Warning: module writet1 of dvips (file cmr10.pfb): character 255 is mapped to .notdef
+
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>[1]
+*** Merging font `CMBX12' (2).
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:12' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmbx12
+dvips: Design size mismatch in font cmbx12
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>[1]
+*** Merging font `CMSY10' (2).
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:12' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmsy10
+dvips: Design size mismatch in font cmsy10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>[1]
+*** Merging font `CMR8' (2).
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:13' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmr8
+dvips: Design size mismatch in font cmr8
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>[1]
+*** Merging font `CMR6' (2).
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:13' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmr6
+dvips: Design size mismatch in font cmr6
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb>[1]
+*** Merging font `CMBX10' (2).
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:14' -> _pkfix_13384.ps
+dvips: Design size mismatch in font cmbx10
+dvips: Design size mismatch in font cmbx10
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>[1]
+*** Merging font `MSBM5' (2).
+This is dvips(k) 2025.1 (TeX Live 2025)  Copyright 2025 Radical Eye Software (www.radicaleye.com)
+'PKFIX 1.7 output 2025/12/14 16:33:14' -> _pkfix_13384.ps
+dvips: Design size mismatch in font msbm5
+dvips: Design size mismatch in font msbm5
+<c:/texlive/2025/texmf-dist/dvips/base/tex.pro>
+<c:/texlive/2025/texmf-dist/dvips/config/alt-rule.pro>
+<c:/texlive/2025/texmf-dist/dvips/base/texps.pro>.
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm5.pfb>[1]
+==> 55 converted fonts.
+==> 8 merged fonts.
+
+E:\distributions\PostScript-pkfix-corrected>ps2pdf distributions_fixed.ps distributions_fixed.pdf
+
+E:\distributions\PostScript-pkfix-corrected>

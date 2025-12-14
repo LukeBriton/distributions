@@ -1,0 +1,3 @@
+pkfix-helper distributions.ps distributions_helped.ps
+pkfix distributions_helped.ps distributions_fixed.ps
+ps2pdf distributions_fixed.ps distributions_fixed.pdf

@@ -1,0 +1,7 @@
+mktexlsr
+updmap-sys --force --enable Map=cm-super-t1.map
+updmap-sys --force --enable Map=cm-super-ts1.map
+updmap-sys --force --enable Map=cm-super-t2a.map
+updmap-sys --force --enable Map=cm-super-t2b.map
+updmap-sys --force --enable Map=cm-super-t2c.map
+updmap-sys --force --enable Map=cm-super-x2.map

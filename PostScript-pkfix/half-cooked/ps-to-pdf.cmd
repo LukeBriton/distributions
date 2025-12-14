@@ -1,0 +1,41 @@
+pkfix-helper distributions.ps distributions_helped.ps ^
+  --force="Fa=cmss9 @ *" ^
+  --force="Fb=cmmib9 @ *" ^
+  --force="Fg=eufm5 @ *" ^
+  --force="Fh=cmss8 @ *" ^
+  --force="Fi=cmssbx10 @ *" ^
+  --force="Fj=cmmib7 @ *" ^
+  --force="Fk=cmmib10 @ *" ^
+  --force="Fl=cmsy8 @ *" ^
+  --force="Fm=cmsy10 @ *" ^
+  --force="Fn=cmr8 @ *" ^
+  --force="Fo=cmex7 @ *" ^
+  --force="Fp=cmsy6 @ *" ^
+  --force="Fr=cmr6 @ *" ^
+  --force="Fs=msam10 @ *" ^
+  --force="Ft=cmr9 @ *" ^
+  --force="Fu=cmex9 @ *" ^
+  --force="Fv=cmmi6 @ *" ^
+  --force="Fw=line10 @ *" ^
+  --force="Fx=cmsy9 @ *" ^
+  --force="Fy=cmmi9 @ *" ^
+  --force="Fz=eufm7 @ *" ^
+  --force="FA=cmbx10 @ *" ^
+  --force="FB=msbm7 @ *" ^
+  --force="FC=cmr5 @ *" ^
+  --force="FD=eufm10 @ *" ^
+  --force="FH=msbm5 @ *" ^
+  --force="FJ=msbm10 @ *" ^
+  --force="FK=cmmi5 @ *" ^
+  --force="FL=cmsy5 @ *" ^
+  --force="FM=cmss10 @ *" ^
+  --force="FN=msam6 @ *" ^
+  --force="FO=cmex10 @ *" ^
+  --force="FS=cmr10 @ *" ^
+  --force="FT=cmr7 @ *" ^
+  --force="FU=cmmi10 @ *" ^
+  --force="FV=cmmi7 @ *" ^
+  --force="FX=cmsy7 @ *"
+
+pkfix distributions_helped.ps distributions_fixed.ps
+ps2pdf distributions_fixed.ps distributions_fixed.pdf
